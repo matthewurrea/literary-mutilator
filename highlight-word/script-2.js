@@ -1,4 +1,4 @@
-//function that highlights a word 
+//function that highlights a selected word 
 function highlight(text) {
   var inputText = document.getElementById("inputText");
   var innerHTML = inputText.innerHTML;
